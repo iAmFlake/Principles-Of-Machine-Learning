@@ -1,0 +1,8 @@
+title: Principles of Machine Learning
+description: Course files for the Microsoft Principles of Machine Learning course
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
